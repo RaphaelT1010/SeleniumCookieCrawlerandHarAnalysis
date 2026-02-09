@@ -8,3 +8,4 @@ Implemented error handling and robustness in the script (websites would sometime
 
 GPT versions are included as further transparency (project was made in a course where ChatGPT versions were also required)
 
+REPORTCookies goes further in depth for this project (analysis of cookies and more project implementation decisions)
